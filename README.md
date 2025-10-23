@@ -16,3 +16,10 @@ Features:
  and some more stuff
 + Anti Defender Overwrite 
 + Blocks unsigned tcp connnections
+
+
+
+
+UNSIGNED TCP CONNECTION DETECTION FALSE FLAGS SOMETIMES E.G:
+
+<img width="1569" height="61" alt="grafik" src="https://github.com/user-attachments/assets/ea81dbe3-928a-4caf-a2e9-b0c661d0271f" />
